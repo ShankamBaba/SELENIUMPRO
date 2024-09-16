@@ -15,7 +15,7 @@ public class Hooks
 	@Before(order = 1,value = "@Sc1")
 	public void beforeMethod(Scenario sce)
 	{
-		System.out.println("::::::::::::Running Scenarion Name2:["+sce.getName()+"]:::::::::::::::::::::::::::");
+		System.out.println("::::::::::::Running Scenarion Name211:["+sce.getName()+"]:::::::::::::::::::::::::::");
 	}
 	
 	
