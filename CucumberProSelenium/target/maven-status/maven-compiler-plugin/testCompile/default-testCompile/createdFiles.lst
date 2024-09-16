@@ -1,0 +1,3 @@
+com\cucum\runner\LocalRunner.class
+com\stepdef\pages\Hooks.class
+com\stepdef\pages\LoginStepDef.class

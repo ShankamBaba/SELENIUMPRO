@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 21.481 s <<< FAILURE! - in TestSuite
+runScenario(com.cucum.runner.LocalRunner)  Time elapsed: 3.805 s  <<< FAILURE!
+java.lang.RuntimeException: Browser Failed!..
+
+runScenario(com.cucum.runner.LocalRunner)  Time elapsed: 4.292 s  <<< FAILURE!
+java.lang.RuntimeException: Browser Failed!..
+
+runScenario(com.cucum.runner.LocalRunner)  Time elapsed: 3.698 s  <<< FAILURE!
+java.lang.RuntimeException: Browser Failed!..
+
+runScenario(com.cucum.runner.LocalRunner)  Time elapsed: 4.978 s  <<< FAILURE!
+java.lang.RuntimeException: Browser Failed!..
+
+runScenario(com.cucum.runner.LocalRunner)  Time elapsed: 3.778 s  <<< FAILURE!
+java.lang.RuntimeException: Browser Failed!..
+
